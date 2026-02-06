@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./1760719705274.jpg" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
 <h3 align="center">🚀 Frontend & App Developer | India 🇮🇳</h3>
 
